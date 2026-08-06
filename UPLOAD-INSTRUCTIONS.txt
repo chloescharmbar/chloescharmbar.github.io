@@ -1,0 +1,18 @@
+CHLOE'S CHARM BAR WEBSITE UPDATE
+
+Includes:
+- FAQ accordion
+- Embedded Google Form
+- Event icons
+- Two interlocking wedding rings
+- Floating WhatsApp button linked to (786) 627-2637
+- Existing images, CSS, and JavaScript
+
+TO PUBLISH:
+1. Extract this ZIP.
+2. Upload all included files and folders into:
+   chloescharmbar/chloescharmbar.github.io
+3. Replace existing files when prompted.
+4. Commit changes.
+5. Wait 2–5 minutes, then refresh:
+   https://chloescharmbar.github.io

@@ -1,17 +1,10 @@
-# Chloe's Charm Bar Website v2
+# Chloe's Charm Bar Website — FAQ + Embedded Form
 
-## Preview
-Open `index.html` after unzipping the folder.
+To preview:
+1. Extract this ZIP.
+2. Keep index.html, styles.css, script.js, and the images folder together.
+3. Double-click index.html.
 
-## Upload to GitHub
-Upload all of these together:
-- index.html
-- styles.css
-- script.js
-- images folder
-
-Replace the old files in:
-https://github.com/chloescharmbar/chloescharmbar.github.io
-
-GitHub Pages URL:
-https://chloescharmbar.github.io
+To publish:
+Upload/replace all included files in the GitHub repository root.
+Do not upload only index.html if the other files are missing.
